@@ -1,0 +1,1 @@
+A machine learning project that identifies and filters spam messages using natural language processing (NLP) techniques. The model is trained on labeled datasets to classify messages as spam or ham with high accuracy. Includes data preprocessing, feature extraction (TF-IDF/Bag of Words), and model evaluation metrics.
